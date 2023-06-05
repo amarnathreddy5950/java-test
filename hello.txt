@@ -1,0 +1,10 @@
+class Student {
+    public static void main(String[] args) {
+        System.out.println("Hello! Welcome");
+        String name = "Amarnath";
+        String no = "98037139**";
+        String field = "JAVA";
+        int exp = 8;
+        System.out.print("Name : " + name + "\nNumber : " + no + "\nField : " + field + "\nExperience : " + exp);
+    }
+}
